@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/pankaj/Music/3/lab3/devel/lib/python3/dist-packages",
+        "/home/pankaj/lab1_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/pankaj/Music/3/lab3/devel/lib/python3/dist-packages",
+        "/home/pankaj/lab1_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
